@@ -1,0 +1,3 @@
+export const GET_ALL_MOVIES = "GET_ALL_MOVIES ";
+export const GET_MOVIES_SEARCH = "GET_MOVIES_SEARCH";
+export const GET_MOVIE_FOR_ID = "GET_MOVIE_FOR_ID";
